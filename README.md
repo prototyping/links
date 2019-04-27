@@ -17,6 +17,14 @@ https://www.typewolf.com/resources
 
 http://www.identifont.com/
 
+https://robinrendle.com/essays/new-web-typography/
+
+https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html
+
+https://v-fonts.com/
+
+https://www.axis-praxis.org/
+
 ### Fonts
 
 https://fonts.google.com/
