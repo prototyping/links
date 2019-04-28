@@ -3,22 +3,22 @@ A repo full of useful links for the Interface Prototyping seminar @ Muthesius Ac
 
 ## Inhalt / Contents
 
-1. [Grundlagen / Basics](#grundlagen--basics)  
-  1.1. [Gestaltgesetze / Gestalt laws](#gestaltgesetze--gestalt-laws)  
-  1.2. [Typografie / Typography](#typografie--typography)  
-  1.3. [Schriften / Fonts](#schriften--fonts)  
-  1.4. [Farbe / Color theory](#farbe--color-theory)  
+1. [Grundlagen / Basics](#1-grundlagen--basics)  
+  1.1. [Gestaltgesetze / Gestalt laws](#11-gestaltgesetze--gestalt-laws)  
+  1.2. [Typografie / Typography](#12-typografie--typography)  
+  1.3. [Schriften / Fonts](#13-schriften--fonts)  
+  1.4. [Farbe / Color theory](#14-farbe--color-theory)  
 
 ---
 
 ## 1. Grundlagen / Basics
 
-### 1.1 Gestaltgesetze / Gestalt laws
+### 1.1. Gestaltgesetze / Gestalt laws
 
 **Untersuchungen zur Lehre von der Gestalt.** Max Wertheimer, 1923. (PDF)    
 http://gestalttheory.net/download/Wertheimer1923_Lehre_von_der_Gestalt.pdf
 
-### 1.2 Typografie / Typography
+### 1.2. Typografie / Typography
 
 **Typefacts** – Wissen über Schrift und Typografie in verständlicher Sprache und anschaulicher Beschreibung.    
 https://typefacts.com/
@@ -53,7 +53,7 @@ https://v-fonts.com/
 **Axis-Praxis** – a website for playing with OpenType Variable Fonts    
 https://www.axis-praxis.org/
 
-### 1.3 Schriften / Fonts
+### 1.3. Schriften / Fonts
 
 **Google Fonts**    
 https://fonts.google.com/
@@ -91,7 +91,7 @@ https://frerejones.com/
 **Commercial Type**    
 https://commercialtype.com/
 
-### 1.4 Farbe / Color theory
+### 1.4. Farbe / Color theory
 
 **Grundlagen der Farbenlehre**    
 https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/farbeinf.html
