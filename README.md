@@ -38,6 +38,9 @@ https://www.typewolf.com/resources
 **Identifont** – the largest independent directory of digital fonts on the Internet.    
 http://www.identifont.com/
 
+**Jason Santa Maria - On Web Typography** [Video]    
+https://vimeo.com/34178417
+
 **The New Web Typography, Robin Rendle**    
 https://robinrendle.com/essays/new-web-typography/
 
