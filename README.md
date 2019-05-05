@@ -8,6 +8,8 @@ A repo full of useful links for the Interface Prototyping seminar @ Muthesius Ac
   1.2. [Typografie / Typography](#12-typografie--typography)  
   1.3. [Schriften / Fonts](#13-schriften--fonts)  
   1.4. [Farbe / Color theory](#14-farbe--color-theory)  
+2. [Prototyping](#2-prototyping)
+3. [Animation im User Interface / UI Animation](#3-animation-im-user-interface--ui-animation)
 
 ---
 
@@ -140,3 +142,21 @@ https://www.getstark.co/
 
 **chroma.js** – JavaScript library for all kinds of color conversions and color scales.    
 https://vis4.net/chromajs
+
+## 2. Prototyping
+
+tbd…
+
+## 3. Animation im User Interface / UI Animation
+
+**Disney’s motion principles in designing interface animations**        
+https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43
+
+**Disney’s 12 Principles Of Animation, In A Cartoon**    
+https://www.fastcompany.com/3030106/disneys-12-principles-of-animation-in-a-cartoon
+
+**The 12 Principles of Animation as Illustrated through Disney and Disney Pixar Films**
+https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/
+
+**UI Movement**
+https://uimovement.com/
