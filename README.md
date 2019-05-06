@@ -145,7 +145,35 @@ https://vis4.net/chromajs
 
 ## 2. Prototyping
 
+### 2.1 Prototyping im Design Prozess
 tbd…
+
+### 2.2. Icons
+
+**The Noun Project** –   Over 2 Million curated icons, created by a global community    
+https://thenounproject.com/
+
+**iconmonstr**    
+https://iconmonstr.com/
+
+**Icons bei Github**    
+https://github.com/search?q=icons
+
+**ICONSVG** – Simple tool to find, customize and generate common SVG icons for your project    
+https://iconsvg.xyz/
+
+**Feather – Simply beautiful open source icons**    
+https://feathericons.com/
+
+**FontAwesome**    
+https://fontawesome.com/
+
+**Google Material Design Icons**    
+https://github.com/google/material-design-icons
+
+**Weather Icons**    
+https://erikflowers.github.io/weather-icons/
+
 
 ## 3. Animation im User Interface / UI Animation
 
@@ -155,8 +183,8 @@ https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations
 **Disney’s 12 Principles Of Animation, In A Cartoon**    
 https://www.fastcompany.com/3030106/disneys-12-principles-of-animation-in-a-cartoon
 
-**The 12 Principles of Animation as Illustrated through Disney and Disney Pixar Films**
+**The 12 Principles of Animation as Illustrated through Disney and Disney Pixar Films**    
 https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/
 
-**UI Movement**
+**UI Movement**    
 https://uimovement.com/
