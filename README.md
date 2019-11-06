@@ -104,6 +104,9 @@ https://www.itp.uni-hannover.de/fileadmin/arbeitsgruppen/zawischa/static_html/fa
 **A Nerd’s Guide to Color on the Web**    
 https://css-tricks.com/nerds-guide-color-web/
 
+**Perceptually uniform color spaces**    
+https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/index.html
+
 **Hex Color – The Code Side Of Color**    
 https://www.smashingmagazine.com/2012/10/the-code-side-of-color/
 
