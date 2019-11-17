@@ -9,6 +9,9 @@ A repo full of useful links for the Interface Prototyping seminar @ Muthesius Ac
   1.3. [Schriften / Fonts](#13-schriften--fonts)  
   1.4. [Farbe / Color theory](#14-farbe--color-theory)  
 2. [Prototyping](#2-prototyping)
+  2.1. [Prototyping im Design-Prozess](#21-prototyping-im-design-prozess)
+  2.2. [Tools](#22-tools)
+  2.3. [Icons](#23-icons)
 3. [Animation im User Interface / UI Animation](#3-animation-im-user-interface--ui-animation)
 
 ---
@@ -148,7 +151,7 @@ https://vis4.net/chromajs
 
 ## 2. Prototyping
 
-### 2.1 Prototyping im Design Prozess
+### 2.1. Prototyping im Design-Prozess
 
 **Prototyping for Designers**, by Kathryn McElroy    
 http://shop.oreilly.com/product/0636920049487.do
@@ -190,6 +193,12 @@ https://www.figma.com/
 
 **Framer X**    
 https://framer.com/
+
+**Marvel**    
+https://marvelapp.com/
+
+**POP - Prototyping on Paper**    
+https://marvelapp.com/pop/
 
 **ProtoPie**    
 https://www.protopie.io/
