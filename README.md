@@ -170,28 +170,28 @@ https://prototyping.news/
 
 ### 2.2. Tools
 
-List: Interface Prototyping Tools
+List: **Interface Prototyping Tools**     
 https://github.com/matthiasott/prototyping-tools/
 
-Adobe XD CC
+**Adobe XD CC**     
 http://xd.adobe.com/
 
-Axure RP
+**Axure RP**     
 http://www.axure.com/
 
-Codepen
+**Codepen**     
 https://codepen.io/
 
-Craft Prototype for Sketch
+**Craft Prototype for Sketch**     
 https://www.invisionapp.com/craft
 
-Figma
+**Figma**     
 https://www.figma.com/
 
-Framer X
+**Framer X**    
 https://framer.com/
 
-ProtoPie
+**ProtoPie**    
 https://www.protopie.io/
 
 ### 2.3. Icons
