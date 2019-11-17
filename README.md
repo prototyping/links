@@ -149,9 +149,52 @@ https://vis4.net/chromajs
 ## 2. Prototyping
 
 ### 2.1 Prototyping im Design Prozess
-tbd…
 
-### 2.2. Icons
+**Prototyping for Designers**, by Kathryn McElroy    
+http://shop.oreilly.com/product/0636920049487.do
+
+Six Steps to Superior Product Prototyping: Lessons from an Apple and Oculus Engineer    
+https://firstround.com/review/six-steps-to-superior-product-prototyping-lessons-from-an-apple-and-oculus-engineer/
+
+[Video] An Event Apart: Prototyping The Scientific Method of Business – Daniel Burka    
+https://aneventapart.com/news/post/prototyping-the-scientific-method-of-business-by-daniel-burka-aea-video
+
+[Video] Getting Effective Session Outcomes, Tom Chi
+https://www.youtube.com/watch?v=z_elgzL9sns&feature=youtu.be
+
+Why You Should Start Prototyping—Right Now    
+https://www.ideo.com/blog/why-you-should-start-prototyping-right-now
+
+Prototyping.news    
+https://prototyping.news/
+
+### 2.2. Tools
+
+List: Interface Prototyping Tools
+https://github.com/matthiasott/prototyping-tools/
+
+Adobe XD CC
+http://xd.adobe.com/
+
+Axure RP
+http://www.axure.com/
+
+Codepen
+https://codepen.io/
+
+Craft Prototype for Sketch
+https://www.invisionapp.com/craft
+
+Figma
+https://www.figma.com/
+
+Framer X
+https://framer.com/
+
+ProtoPie
+https://www.protopie.io/
+
+### 2.3. Icons
 
 **The Noun Project** –   Over 2 Million curated icons, created by a global community    
 https://thenounproject.com/
