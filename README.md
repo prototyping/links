@@ -230,7 +230,7 @@ https://github.com/google/material-design-icons
 **Weather Icons**    
 https://erikflowers.github.io/weather-icons/
 
-### 2.3. Icons
+### 2.4. HTML-Prototyping
 
 **Visual Studio Code**    
 https://code.visualstudio.com/    
