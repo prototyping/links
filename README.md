@@ -11,7 +11,8 @@ A repo full of useful links for the Interface Prototyping seminar @ Muthesius Ac
 2. [Prototyping](#2-prototyping)    
   2.1. [Prototyping im Design-Prozess](#21-prototyping-im-design-prozess)    
   2.2. [Tools](#22-tools)    
-  2.3. [Icons](#23-icons)    
+  2.3. [Icons](#23-icons)   
+  2.4. [HTML-Prototyping](#24-html-prototyping)   
 3. [Animation im User Interface / UI Animation](#3-animation-im-user-interface--ui-animation)
 
 ---
@@ -229,6 +230,34 @@ https://github.com/google/material-design-icons
 **Weather Icons**    
 https://erikflowers.github.io/weather-icons/
 
+### 2.3. Icons
+
+**Visual Studio Code**    
+https://code.visualstudio.com/    
+
+**Atom Editor**    
+https://atom.io/    
+
+**CodePen**    
+https://codepen.io/
+
+**Mozilla Developer Network Web Docs (MDN)**    
+https://developer.mozilla.org/en-US/    
+
+**CSS-Tricks**    
+https://css-tricks.com/    
+
+**A Complete Guide to CSS Grid**    
+https://css-tricks.com/snippets/css/complete-guide-grid/    
+
+**A Complete Guide to Flexbox**
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+**Flexbox Froggy**    
+https://flexboxfroggy.com/
+
+**Codecademy**    
+https://www.codecademy.com/
 
 ## 3. Animation im User Interface / UI Animation
 
