@@ -47,6 +47,9 @@ http://www.identifont.com/
 **Jason Santa Maria - On Web Typography** [Video]    
 https://vimeo.com/34178417
 
+**Web Typography – Richard Rutter [Book]**
+http://www.book.webtypography.net/
+
 **The New Web Typography, Robin Rendle**    
 https://robinrendle.com/essays/new-web-typography/
 
