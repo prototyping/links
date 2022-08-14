@@ -47,9 +47,6 @@ http://www.identifont.com/
 **Jason Santa Maria - On Web Typography** [Video]    
 https://vimeo.com/34178417
 
-**Web Typography – Richard Rutter [Book]**
-http://www.book.webtypography.net/
-
 **The New Web Typography, Robin Rendle**    
 https://robinrendle.com/essays/new-web-typography/
 
@@ -64,6 +61,18 @@ https://v-fonts.com/
 
 **Axis-Praxis** – a website for playing with OpenType Variable Fonts    
 https://www.axis-praxis.org/
+
+**The Elements of Typographic Style, Robert Bringhurst [Book]**    
+https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style
+
+**Web Typography, Richard Rutter [Book]**    
+http://www.book.webtypography.net/
+
+**On Web Typography, Jason Santa Maria [Book]**    
+https://www.goodreads.com/book/show/13608106-on-web-typography
+
+**Flexible Typesetting, Tim Brown [Book]**    
+https://abookapart.com/products/flexible-typesetting
 
 ### 1.3. Schriften / Fonts
 
