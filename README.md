@@ -259,7 +259,7 @@ https://css-tricks.com/
 **A Complete Guide to CSS Grid**    
 https://css-tricks.com/snippets/css/complete-guide-grid/    
 
-**A Complete Guide to Flexbox**
+**A Complete Guide to Flexbox**    
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 **Flexbox Froggy**    
