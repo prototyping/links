@@ -247,9 +247,6 @@ https://erikflowers.github.io/weather-icons/
 **Visual Studio Code**    
 https://code.visualstudio.com/    
 
-**Atom Editor**    
-https://atom.io/    
-
 **CodePen**    
 https://codepen.io/
 
@@ -268,8 +265,17 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 **Flexbox Froggy**    
 https://flexboxfroggy.com/
 
+**CSS Zen Garden**    
+http://www.csszengarden.com    
+
 **Codecademy**    
-https://www.codecademy.com/
+https://www.codecademy.com/    
+
+**Scaling CSS Layout Beyond Pixels, talk by Stephanie Eckles**    
+https://www.youtube.com/watch?v=8slZJrTK3nE    
+
+**Creative CSS Layout, talk by Michelle Barker**    
+https://www.youtube.com/watch?v=tueTFd2TQUA    
 
 ## 3. Animation im User Interface / UI Animation
 
@@ -288,7 +294,7 @@ https://designcode.io/ui-design-handbook-ui-animation-resources
 **Dribbble Tag UI Animation**    
 https://dribbble.com/tags/ui_animation    
 
-**Awwwards Animation Collection**
+**Awwwards Animation Collection**    
 https://www.awwwards.com/awwwards/collections/animation/    
 
 **Awesome List Motion UI Design**     
