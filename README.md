@@ -282,5 +282,14 @@ https://www.fastcompany.com/3030106/disneys-12-principles-of-animation-in-a-cart
 **The 12 Principles of Animation as Illustrated through Disney and Disney Pixar Films**    
 https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/
 
-**UI Movement**    
-https://uimovement.com/
+**UI ANimation Resources, by Design+Code**.   
+https://designcode.io/ui-design-handbook-ui-animation-resources    
+
+**Dribbble Tag UI Animation**    
+https://dribbble.com/tags/ui_animation    
+
+**Awwwards Animation Collection**
+https://www.awwwards.com/awwwards/collections/animation/    
+
+**Awesome List Motion UI Design**     
+https://project-awesome.org/fliptheweb/motion-ui-design     
