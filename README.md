@@ -299,3 +299,24 @@ https://www.awwwards.com/awwwards/collections/animation/
 
 **Awesome List Motion UI Design**     
 https://project-awesome.org/fliptheweb/motion-ui-design     
+
+**UI Animation, Motion Design & Micro Interaction Basics [Video]**    
+https://www.youtube.com/watch?v=-L_MwLVYWDs    
+
+**Designing Meaningful Animation - Val Head - Beyond Tellerrand 2016 [Video]**    
+https://vimeo.com/166144917    
+
+**Understanding Motion – Material Design**    
+https://m2.material.io/design/motion/understanding-motion.html    
+
+**Jedi Principles of UI Animation**    
+https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac    
+
+**CSS Animation Weekly Newsletter**    
+http://weekly.cssanimation.rocks    
+
+**Inside Framer's Magic Motion**    
+https://www.nan.fyi/magic-motion    
+
+**Including Animation In Your Design System**    
+https://www.smashingmagazine.com/2019/02/animation-design-system/    
