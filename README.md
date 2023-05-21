@@ -162,6 +162,12 @@ https://www.getstark.co/
 **chroma.js** – JavaScript library for all kinds of color conversions and color scales.    
 https://vis4.net/chromajs
 
+**OKLCH Color Picker**    
+https://oklch.com/
+
+**OKLCH in CSS: why we moved from RGB and HSL**    
+https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl
+
 ## 2. Prototyping
 
 ### 2.1. Prototyping im Design-Prozess
