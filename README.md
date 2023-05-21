@@ -62,6 +62,12 @@ https://v-fonts.com/
 **Axis-Praxis** – a website for playing with OpenType Variable Fonts    
 https://www.axis-praxis.org/
 
+**Utopia** – Fluid Typography    
+https://utopia.fyi
+
+**Modular Scale**    
+https://www.modularscale.com
+
 **The Elements of Typographic Style, Robert Bringhurst [Book]**    
 https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style
 
