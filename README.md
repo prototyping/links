@@ -281,7 +281,10 @@ https://flexboxfroggy.com/
 http://www.csszengarden.com    
 
 **Codecademy**    
-https://www.codecademy.com/    
+https://www.codecademy.com/  
+
+**Kevin Powell: HTML & CSS for Absolute beginners**    
+https://learn.kevinpowell.co/    
 
 **Scaling CSS Layout Beyond Pixels, talk by Stephanie Eckles**    
 https://www.youtube.com/watch?v=8slZJrTK3nE    
