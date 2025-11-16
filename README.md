@@ -88,9 +88,6 @@ https://fonts.google.com/
 **MyFonts**    
 https://www.myfonts.com/
 
-**FontShop**    
-https://www.fontshop.com/
-
 **Linotype**    
 https://www.linotype.com/
 
