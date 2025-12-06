@@ -129,6 +129,9 @@ https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/ind
 **Hex Color – The Code Side Of Color**    
 https://www.smashingmagazine.com/2012/10/the-code-side-of-color/
 
+**Manuel Matuzović – Color in CSS Or: How I Learned to Disrespect Tennis**    
+https://www.youtube.com/watch?v=9UyJe22WH58
+
 **Nippon Colors**, an interactive list of the traditional colors of Japan    
 http://nipponcolors.com
 
