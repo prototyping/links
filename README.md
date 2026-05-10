@@ -24,6 +24,24 @@ A repo full of useful links for the Interface Prototyping seminar @ Muthesius Ac
 **Untersuchungen zur Lehre von der Gestalt.** Max Wertheimer, 1923. (PDF)    
 http://gestalttheory.net/download/Wertheimer1923_Lehre_von_der_Gestalt.pdf
 
+**Laws of UX (Jon Yablonski)** — Canonical modern reference site for UX/Gestalt heuristics with an associated book and poster.
+https://lawsofux.com/
+
+**NN/g — Gestalt Principles for UI Design (video series)** — Short expert videos applying each Gestalt law to interfaces; ideal for in-class viewing.    
+https://www.nngroup.com/videos/the-gestalt-principles-intro/
+
+**Smashing Magazine — Visual Perception and Gestalt (Steven Bradley)** — Foundational long-read;     https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/ 
+pair with the figure-ground follow-up at https://www.smashingmagazine.com/2019/04/spaces-web-design-gestalt-principles/.
+
+**UX Collective — Using Gestalt Principles in UX Design** — Practical UI examples in forms, buttons and lists.    
+https://uxdesign.cc/using-gestalt-principles-in-ux-design-3fc64614d3ef
+
+**Toptal — Gestalt Principles, Strategic Framework for UI/UX** — Visually rich breakdown linking classic principles to current patterns.    
+https://www.toptal.com/designers/ui/gestalt-principles-of-design
+
+**Optimal Workshop — Understanding the Gestalt Principles** — Regularly updated primer suitable for student note-taking.    
+https://www.optimalworkshop.com/blog/understanding-the-gestalt-principles-of-perception-for-ux
+
 ### 1.2. Typografie / Typography
 
 **Typefacts** – Wissen über Schrift und Typografie in verständlicher Sprache und anschaulicher Beschreibung.    
