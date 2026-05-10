@@ -86,6 +86,9 @@ https://utopia.fyi
 **Modular Scale**    
 https://www.modularscale.com
 
+**Butterick's Practical Typography (full free book)** — Matthew Butterick's complete online textbook on body text, hierarchy and font choice.    
+https://practicaltypography.com/
+
 **The Elements of Typographic Style, Robert Bringhurst [Book]**    
 https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style
 
@@ -96,7 +99,7 @@ http://www.book.webtypography.net/
 https://www.goodreads.com/book/show/13608106-on-web-typography
 
 **Flexible Typesetting, Tim Brown [Book]**    
-https://abookapart.com/products/flexible-typesetting
+https://flexibletypesetting.com
 
 ### 1.3. Schriften / Fonts
 
@@ -132,6 +135,21 @@ https://frerejones.com/
 
 **Commercial Type**    
 https://commercialtype.com/
+
+#### **Free / open-source foundries and collections**
+
+- **Velvetyne Type Foundry (FR)** — https://velvetyne.fr/ — Leading libre foundry with a politically engaged catalogue under OFL.
+- **Velvetyne Libre Friends directory** — https://velvetyne.fr/velvetyne-libre-friends/ — Curated meta-list of dozens of libre foundries (OSP, Tunera, Bonjour Monde, Luuse, Le75…).
+- **Collletttivo (Milan)** — https://www.collletttivo.it/ — First Italian open-source foundry with a strong educational mission.
+- **Open Foundry** — https://open-foundry.com/ — Curated showcase of open-source typefaces.
+- **Use & Modify (Raphaël Bastide)** — https://usemodify.com/ — Personal selection emphasizing "weird, classy, punk" character.
+- **Indestructible Type (Owen Earl)** — https://indestructibletype.com/ — Free variable typefaces focused on accessibility.
+- **Fontshare (Indian Type Foundry)** — https://fontshare.com/ — 100+ professional-grade free fonts (Satoshi, Clash Display, General Sans).
+- **Fontesk** — https://fontesk.com/ — Daily-updated archive of free fonts with clear license tags.
+- **Beautiful Web Type** — https://www.beautifulwebtype.com/ — Curated showcase of the best free fonts with pairings and OpenType demos.
+- **Tunera Type Foundry** — https://tunera.xyz/ — Open-source foundry by Ariel Martín Pérez (designer of Sligoil).
+- **OSP Foundry (Brussels)** — http://osp.kitchen/foundry — Belgian non-profit collective producing OFL typefaces.
+- **v-fonts.com — open source variable fonts** — https://v-fonts.com/licenses/open-source — Filterable showcase of OSS variable fonts (extends the existing v-fonts entry).
 
 ### 1.4. Farbe / Color theory
 
@@ -260,6 +278,15 @@ https://github.com/search?q=icons
 **ICONSVG** – Simple tool to find, customize and generate common SVG icons for your project    
 https://iconsvg.xyz/
 
+**Iconify** — 292,000+ icons across 209+ sets in one searchable framework     
+https://icon-sets.iconify.design/
+
+**Lucide** — 1,600+ free MIT icons    
+https://lucide.dev/
+
+**Remix Icon** — 3,000+ neutral system icons in line and filled styles    
+https://remixicon.com/
+
 **Feather – Simply beautiful open source icons**    
 https://feathericons.com/
 
@@ -310,7 +337,16 @@ https://www.youtube.com/watch?v=8slZJrTK3nE
 **Creative CSS Layout, talk by Michelle Barker**    
 https://www.youtube.com/watch?v=tueTFd2TQUA    
 
+**web.dev — Learn Responsive Design (Jeremy Keith / Una Kravets)** — Free full course with self-assessments.    
+https://web.dev/learn/design/
+
 ## 3. Animation im User Interface / UI Animation
+
+**Easing Wizard** — Visual generator for `cubic-bezier`, `linear()` and steps timing functions.    
+https://easingwizard.com/
+
+**easings.net** — Visual cheat sheet of standard easing curves with CSS/JS/Swift code.    
+https://easings.net/
 
 **Disney’s motion principles in designing interface animations**        
 https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43
